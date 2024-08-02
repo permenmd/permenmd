@@ -1,13 +1,6 @@
-# Welcome to PermenMD's GitHub
+# Who Am I?
 
-![Profile Photo](https://telegra.ph/file/450c0f29b25e7d6e51cdd.jpg)
-
-**PermenMD From StarsX Cyber Team**
-
-- **Age**: 15 Years Old
-- **Hobbies**: Learning Some Code
-- **Projects Completed**: 13 Tools
-- **Projects Failed**: 4
+![Profile Photo](https://telegra.ph/file/5edaf35eb9ea2c9b4d6f5.png)
 
 > *"Jika tidak rusak, jangan perbaiki; jika bisa lebih baik, selalu perbaiki."*
 
