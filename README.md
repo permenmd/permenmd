@@ -9,7 +9,7 @@
 - **Projects Completed**: 13 Tools
 - **Projects Failed**: 4
 
-> *"Some Programmer Quote Here"*
+> *"Jika tidak rusak, jangan perbaiki; jika bisa lebih baik, selalu perbaiki."*
 
 ## Contact Me
 
